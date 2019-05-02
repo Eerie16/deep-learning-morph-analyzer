@@ -1,0 +1,12 @@
+यह	यह	n	any	sg	3	d	0
+एशिया	एशिया	n	m	sg	3	o	0
+की	का	punc	Unk	Unk	Unk	Unk	Unk
+सबसे	सबसे	avy	any	any	Unk	Unk	Unk
+बड़ी	बड़ा	adj	m	pl	Unk	o	Unk
+मस्जिदों	मस्जिद	n	m	pl	3	o	0
+में	में	punc	Unk	Unk	Unk	Unk	Unk
+से	से	avy	Unk	Unk	Unk	Unk	Unk
+एक	एक	num	any	any	Unk	any	Unk
+है	है	v	any	sg	3	Unk	hE
+।	।	punc	Unk	Unk	Unk	Unk	Unk
+

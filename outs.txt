@@ -1,0 +1,159 @@
+मेरे पास १०० से ज़्यादा घर हैं ।
+लड़के को पुरस्कार मिला ।
+वे लड़के अभी आये थे ।
+उधर बहुत सारे घर बने हुए हैं ।
+उधर एक बड़ा सा घर बना हुआ है ।
+लड़के को किताब दे दो ।
+एक कमरे का एक रात का किराया कितना है ।
+लड़के किताब मांग रहे हैं ।
+यह बहुत छोटी है ।
+कृष्णा आया हुआ है ।
+कृष्णा ने कहा की वह थोड़ी देर में जायेगी ।
+सफ़ेद मेज़ पर किताब रखी हुई है ।
+सफ़ेद घर के पास हूँ ।
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+मेरे			मैं			pn			any			sg			Unk			d			Unk
+पास			पास			num			any			any			Unk			any			Unk
+१००			१००			num			any			any			Unk			o			Unk
+से			से			punc			Unk			Unk			Unk			Unk			Unk
+ज़्यादा			ज्यादा			punc			Unk			Unk			Unk			Unk			Unk
+घर			घर			num			any			any			Unk			any			Unk
+हैं			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+मेरे पास १०० से ज़्यादा घर हैं ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+लड़के			लड़का			n			any			sg			3			o			0
+को			को			punc			Unk			Unk			Unk			Unk			Unk
+पुरस्कार			पुरस्कार			n			m			sg			3			d			0
+मिला			मिल			v			any			any			any			Unk			0
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+लड़के को पुरस्कार मिला ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+वे			वह			num			any			any			3			any			Unk
+लड़के			लड़का			n			any			sg			3			d			0
+अभी			अभी			punc			Unk			Unk			Unk			Unk			Unk
+आये			आ			v			any			sg			any			Unk			Unk
+थे			था			v			any			sg			any			Unk			Unk
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+वे लड़के अभी आये थे ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+उधर			उधर			punc			Unk			Unk			Unk			Unk			Unk
+बहुत			बहुत			psp			Unk			Unk			Unk			Unk			Unk
+सारे			सारा			num			any			any			Unk			any			Unk
+घर			घर			num			any			any			Unk			any			Unk
+बने			बन			v			m			pl			3			Unk			0
+हुए			हो			v			any			pl			3			Unk			0
+हैं			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+उधर बहुत सारे घर बने हुए हैं ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+उधर			उधर			punc			Unk			Unk			Unk			Unk			Unk
+एक			एक			num			any			any			Unk			any			Unk
+बड़ा			बड़ा			adj			m			sg			Unk			d			Unk
+सा			सा			punc			Unk			Unk			Unk			Unk			Unk
+घर			घर			num			any			any			Unk			any			Unk
+बना			बन			v			any			sg			any			Unk			0
+हुआ			हो			v			any			sg			any			Unk			0
+है			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+उधर एक बड़ा सा घर बना हुआ है ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+लड़के			लड़का			n			any			sg			3			o			0
+को			को			punc			Unk			Unk			Unk			Unk			Unk
+किताब			किताब			n			m			sg			3			d			0
+दे			दे			v			any			sg			any			Unk			0
+दो			दो			num			any			any			Unk			any			Unk
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+लड़के को किताब दे दो ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+एक			एक			num			any			any			Unk			any			Unk
+कमरे			कमरा			n			any			sg			3			o			0
+का			का			punc			Unk			Unk			Unk			Unk			Unk
+एक			एक			num			any			any			Unk			any			Unk
+रात			रात			n			f			sg			3			o			0
+का			का			punc			Unk			Unk			Unk			Unk			Unk
+किराया			किरा			n			any			sg			3			d			0
+कितना			कितना			avy			Unk			Unk			Unk			Unk			Unk
+है			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+एक कमरे का एक रात का किराया कितना है ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+लड़के			लड़का			avy			any			sg			3			d			0
+किताब			किताब			n			m			pl			3			d			0
+मांग			मांग			v			any			pl			3			Unk			0
+रहे			रह			v			m			pl			any			Unk			yA
+हैं			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+लड़के किताब मांग रहे हैं ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+यह			यह			n			any			sg			3			d			0
+बहुत			बहुत			avy			Unk			Unk			Unk			Unk			Unk
+छोटी			छोटा			adj			m			sg			Unk			Unk			Unk
+है			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+यह बहुत छोटी है ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+कृष्णा			कृष्णा			n			Unk			sg			3			d			0
+आया			आ			v			m			sg			3			Unk			Unk
+हुआ			हो			v			any			sg			any			Unk			0
+है			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+कृष्णा आया हुआ है ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+कृष्णा			कृष्णा			n			any			sg			3			o			0
+ने			ने			punc			Unk			Unk			Unk			Unk			Unk
+कहा			कह			v			any			sg			any			Unk			0
+की			का			punc			Unk			Unk			Unk			Unk			Unk
+वह			वह			num			any			any			Unk			any			Unk
+थोड़ी			थोड़ा			adj			f			sg			Unk			o			Unk
+देर			देर			n			f			sg			3			o			0
+में			में			punc			Unk			Unk			Unk			Unk			Unk
+जायेगी			जा			v			f			sg			3			Unk			gA
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+कृष्णा ने कहा की वह थोड़ी देर में जायेगी ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+सफ़ेद			सफेद			n			f			sg			3			o			0
+मेज़			मेज			n			any			sg			Unk			o			Unk
+पर			पर			punc			Unk			Unk			Unk			Unk			Unk
+किताब			किताब			n			f			sg			3			d			0
+रखी			रख			v			any			sg			3			Unk			0
+हुई			हो			v			any			sg			any			Unk			0
+है			है			v			any			sg			3			Unk			hE
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+सफ़ेद मेज़ पर किताब रखी हुई है ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
+सफ़ेद			सफेद			n			any			sg			3			d			0
+घर			घर			n			any			sg			3			o			0
+के			का			punc			Unk			Unk			Unk			Unk			Unk
+पास			पास			nst			m			sg			3			d			Unk
+हूँ			है			v			any			any			any			Unk			0
+।			।			punc			Unk			Unk			Unk			Unk			Unk
+सफ़ेद घर के पास हूँ ।
+==========================================================
+Words			Roots			POS			Gen			Num			Per			Case			TAM
+
